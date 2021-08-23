@@ -1,6 +1,6 @@
 # new_app
 
-A new Flutter project.
+This App is used to store Address of your Relatives and Friends. 
 
 ## Getting Started
 
